@@ -19,7 +19,7 @@ function preload() {
   coin = loadImage("coin.png");
   path = loadImage("path.png");
 
-  battery = loadImage("Power.PNG");
+  battery = loadImage("power.png");
   mediumBattery = loadImage("Medium Power.png");
   lowBattery = loadImage("Low Power.png");
   emptyBattery = loadImage("emptyPower.png");
